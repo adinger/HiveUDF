@@ -1,2 +1,2 @@
 # HiveUDF
-For learning how to create a Hive UDF
+A basic "to uppercase" function for learning how to create a Hive UDF.
