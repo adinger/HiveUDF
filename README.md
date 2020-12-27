@@ -1,2 +1,3 @@
 # HiveUDF
-A basic "to uppercase" function for learning how to create a Hive UDF.
+
+A Hive User Defined Function to convert a string to uppercase.
